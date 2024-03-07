@@ -17,7 +17,7 @@ How to Run
 - Sellers can list their shoes on the website by selecting the sell option.
 - Admins have the ability to generate reports by logging in as an admin.
 
-Authors
-Dhanush Raj
-Prajakta More
-Arvind Ramam
+Authors<br>
+Dhanush Raj<br>
+Prajakta More<br>
+Arvind Ramam<br>
