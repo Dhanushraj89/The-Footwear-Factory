@@ -1,14 +1,14 @@
 # The Footwear Factory
 
-# Project Description
+Project Description
 The Footwear Factory is a comprehensive platform designed for shoe reselling and retailing, providing customers with access to a wide range of shoes at affordable prices. This project aims to facilitate the buying and selling of shoes through an intuitive and user-friendly interface.
 
-# Setup Required
+Setup Required
 - Java 8
 - Apache NetBeans 11
 - JDK 13
 
-# How to Run
+How to Run
 - Run all the SQL scripts in the specified order to set up the database.
 - Open the NetBeans project in Apache NetBeans 11.
 - Run the program from NetBeans.
@@ -17,7 +17,7 @@ The Footwear Factory is a comprehensive platform designed for shoe reselling and
 - Sellers can list their shoes on the website by selecting the sell option.
 - Admins have the ability to generate reports by logging in as an admin.
 
-# Authors
+Authors
 Dhanush Raj
 Prajakta More
-Arvind Raman
+Arvind Ramam
